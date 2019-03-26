@@ -1,0 +1,9 @@
+public class simple{
+    //The public class name should be the same as the file name!
+    public static void main(String[] args) {
+        
+        System.out.println("Hello World");
+
+    }
+
+}
