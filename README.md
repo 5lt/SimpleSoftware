@@ -12,3 +12,6 @@ SimpleSoftware Leadership <br>
 
 Love you all!
 
+## What is the copyright?
+Take the code line for line if you so wish, these are starting points to hopefully inspire you to make some really cool things!
+
